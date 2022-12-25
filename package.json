@@ -2,7 +2,7 @@
   "name": "plutonium",
   "version": "1.0.0",
   "description": "Repository for Backend Cohort - Plutonium(Project-01-Blogging Site Mini Project)",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/index.js"
